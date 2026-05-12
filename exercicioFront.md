@@ -267,13 +267,7 @@ O cabeçalho deve:
 * permanecer acima do conteúdo;
 * não esconder os elementos da página.
 
----
 
-# Parte 8 — `z-index`
-
-## Tarefa
-
-Configure as camadas dos elementos para evitar problemas de sobreposição.
 
 ---
 
